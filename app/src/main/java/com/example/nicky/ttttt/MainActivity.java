@@ -50,7 +50,8 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-    private void Sjjdh(){
-
+    private void Sjjdh()
+    {
+        //多对多
     }
 }
